@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "CallMe",
+  "version": "1.0",
+  "description": "Passively discovers JSONP callback endpoints while browsing.",
+  "permissions": ["webRequest", "storage"],
+  "host_permissions": ["<all_urls>"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "CallMe - JSONP Discovery"
+  }
+}
